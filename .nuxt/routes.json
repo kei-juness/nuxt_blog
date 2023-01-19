@@ -1,0 +1,32 @@
+[
+  {
+    "name": "privacy",
+    "path": "/privacy",
+    "component": "/Users/kei/Desktop/project/node_project/nuxt_blog/pages/privacy.vue",
+    "chunkName": "pages/privacy"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "/Users/kei/Desktop/project/node_project/nuxt_blog/pages/search.vue",
+    "chunkName": "pages/search"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug?",
+    "component": "/Users/kei/Desktop/project/node_project/nuxt_blog/pages/categories/_slug.vue",
+    "chunkName": "pages/categories/_slug"
+  },
+  {
+    "name": "posts-slug",
+    "path": "/posts/:slug?",
+    "component": "/Users/kei/Desktop/project/node_project/nuxt_blog/pages/posts/_slug.vue",
+    "chunkName": "pages/posts/_slug"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kei/Desktop/project/node_project/nuxt_blog/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
